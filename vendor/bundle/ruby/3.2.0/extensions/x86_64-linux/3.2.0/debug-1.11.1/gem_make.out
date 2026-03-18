@@ -1,0 +1,19 @@
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+/home/shou1/.rbenv/versions/3.2.0/bin/ruby -I /home/shou1/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-zi4rk2 sitelibdir\=./.gem.20260308-5827-zi4rk2 clean
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-zi4rk2 sitelibdir\=./.gem.20260308-5827-zi4rk2
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-zi4rk2 sitelibdir\=./.gem.20260308-5827-zi4rk2 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20260308-5827-zi4rk2/debug
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-zi4rk2 sitelibdir\=./.gem.20260308-5827-zi4rk2 clean

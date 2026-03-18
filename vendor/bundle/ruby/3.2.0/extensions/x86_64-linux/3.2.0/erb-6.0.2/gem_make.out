@@ -1,0 +1,19 @@
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/erb-6.0.2/ext/erb/escape
+/home/shou1/.rbenv/versions/3.2.0/bin/ruby -I /home/shou1/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/erb-6.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-vno8wd sitelibdir\=./.gem.20260308-5827-vno8wd clean
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/erb-6.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-vno8wd sitelibdir\=./.gem.20260308-5827-vno8wd
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/erb-6.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-vno8wd sitelibdir\=./.gem.20260308-5827-vno8wd install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20260308-5827-vno8wd/erb
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/erb-6.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-vno8wd sitelibdir\=./.gem.20260308-5827-vno8wd clean

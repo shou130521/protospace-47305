@@ -1,0 +1,18 @@
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/cgi-0.5.1/ext/cgi/escape
+/home/shou1/.rbenv/versions/3.2.0/bin/ruby -I /home/shou1/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/cgi-0.5.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-i1lrfu sitelibdir\=./.gem.20260308-5827-i1lrfu clean
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/cgi-0.5.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-i1lrfu sitelibdir\=./.gem.20260308-5827-i1lrfu
+compiling escape.c
+linking shared-object cgi/escape.so
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/cgi-0.5.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-i1lrfu sitelibdir\=./.gem.20260308-5827-i1lrfu install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20260308-5827-i1lrfu/cgi
+
+current directory: /home/shou1/protospace-47305/vendor/bundle/ruby/3.2.0/gems/cgi-0.5.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20260308-5827-i1lrfu sitelibdir\=./.gem.20260308-5827-i1lrfu clean
