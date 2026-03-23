@@ -73,3 +73,7 @@ gem "orm_adapter", "~> 0.5.0"
 
 gem "mini_magick"
 gem "image_processing", "~> 1.2"
+
+group :production do
+  gem 'pg'
+end
